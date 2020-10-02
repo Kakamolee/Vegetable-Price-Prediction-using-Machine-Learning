@@ -1,0 +1,946 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4900,5250,5000,26-Dec-19
+2,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4900,5300,5100,25-Dec-19
+3,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4900,5350,5100,15-Dec-19
+4,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5100,5360,5250,11-Dec-19
+5,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5000,5230,5115,04-Dec-19
+6,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4900,5100,5000,27-Nov-19
+7,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5160,4950,24-Nov-19
+8,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4775,4950,4900,21-Nov-19
+9,Nagpur,Bhiwapur,Cotton,Other,FAQ,6100,6100,6100,22-May-19
+10,Nagpur,Bhiwapur,Cotton,Other,FAQ,6000,6400,6200,08-May-19
+11,Nagpur,Bhiwapur,Cotton,Other,FAQ,6000,6350,6200,01-May-19
+12,Nagpur,Bhiwapur,Cotton,Other,FAQ,6000,6378,6200,28-Apr-19
+13,Nagpur,Bhiwapur,Cotton,Other,FAQ,6000,6400,6200,18-Apr-19
+14,Nagpur,Bhiwapur,Cotton,Other,FAQ,6000,6500,6300,17-Apr-19
+15,Nagpur,Bhiwapur,Cotton,Other,FAQ,5500,6125,5800,31-Mar-19
+16,Nagpur,Bhiwapur,Cotton,Other,FAQ,5950,6000,5950,29-Mar-19
+17,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5150,5250,5200,13-Mar-19
+18,Nagpur,Bhiwapur,Cotton,Other,FAQ,5450,5710,5500,13-Mar-19
+19,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5150,5300,5200,11-Mar-19
+20,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5000,5100,5050,10-Mar-19
+21,Nagpur,Bhiwapur,Cotton,Other,FAQ,5450,5555,5500,10-Mar-19
+22,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5400,5250,27-Feb-19
+23,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5310,5200,21-Feb-19
+24,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5310,5200,17-Feb-19
+25,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5355,5250,13-Feb-19
+26,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5305,5250,07-Feb-19
+27,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5380,5250,06-Feb-19
+28,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5200,5150,04-Feb-19
+29,Nagpur,Bhiwapur,Cotton,Other,FAQ,5300,5405,5350,04-Feb-19
+30,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5200,5150,03-Feb-19
+31,Nagpur,Bhiwapur,Cotton,Other,FAQ,5300,5405,5350,03-Feb-19
+32,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,4800,5380,5250,16-Jan-19
+33,Nagpur,Bhiwapur,Cotton,Varalaxmi,FAQ,5151,5151,5151,13-Jan-19
+34,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5375,5150,31-Dec-19
+35,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5375,5150,30-Dec-19
+36,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5375,5215,29-Dec-19
+37,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5375,5250,28-Dec-19
+38,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5400,5250,27-Dec-19
+39,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5400,5250,26-Dec-19
+40,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5400,5250,25-Dec-19
+41,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5400,5250,24-Dec-19
+42,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5400,5250,23-Dec-19
+43,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5150,5375,5235,22-Dec-19
+44,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5150,5350,5235,21-Dec-19
+45,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5150,5375,5235,20-Dec-19
+46,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5150,5375,5235,19-Dec-19
+47,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4950,5375,5225,18-Dec-19
+48,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5375,5225,17-Dec-19
+49,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5375,5265,16-Dec-19
+50,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5400,5325,15-Dec-19
+51,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5400,5350,14-Dec-19
+52,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5400,5272,13-Dec-19
+53,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4835,5350,5145,12-Dec-19
+54,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4800,5350,5050,11-Dec-19
+55,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4750,5250,5135,10-Dec-19
+56,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4750,5200,5125,09-Dec-19
+57,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4750,5200,5120,08-Dec-19
+58,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5150,4950,07-Dec-19
+59,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5150,4950,06-Dec-19
+60,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5150,4950,05-Dec-19
+61,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5100,4900,04-Dec-19
+62,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5100,4900,03-Dec-19
+63,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5100,4900,02-Dec-19
+64,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,01-Dec-19
+65,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,30-Nov-19
+66,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,29-Nov-19
+67,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,28-Nov-19
+68,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,27-Nov-19
+69,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5100,4900,26-Nov-19
+70,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4700,5100,4900,25-Nov-19
+71,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5000,4800,24-Nov-19
+72,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5000,4800,23-Nov-19
+73,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5000,4800,22-Nov-19
+74,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5000,4800,21-Nov-19
+75,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4600,5000,4750,20-Nov-19
+76,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4100,4650,4400,19-Nov-19
+77,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4000,4600,4400,18-Nov-19
+78,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4000,4600,4300,17-Nov-19
+79,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4000,4600,4400,16-Nov-19
+80,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4000,4600,4535,15-Nov-19
+81,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4000,4600,4425,14-Nov-19
+82,Nagpur,Kalmeshwar,Cotton,Other,FAQ,4050,4600,4565,13-Nov-19
+83,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5000,5000,5000,07-Nov-19
+84,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6250,03-May-19
+85,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6275,6100,02-May-19
+86,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6275,6100,01-May-19
+87,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6275,6100,30-Apr-19
+88,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6150,29-Apr-19
+89,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6275,6100,28-Apr-19
+90,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6275,6125,27-Apr-19
+91,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6075,6300,6250,24-Apr-19
+92,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6300,6240,23-Apr-19
+93,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6300,6240,22-Apr-19
+94,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6300,6200,21-Apr-19
+95,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6300,6220,20-Apr-19
+96,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6300,6200,19-Apr-19
+97,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6100,6350,6250,18-Apr-19
+98,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6090,6350,6215,17-Apr-19
+99,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6150,16-Apr-19
+100,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6375,6150,15-Apr-19
+101,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6225,6100,14-Apr-19
+102,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6100,13-Apr-19
+103,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6250,6100,12-Apr-19
+104,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6150,11-Apr-19
+105,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6150,10-Apr-19
+106,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5950,6325,6175,09-Apr-19
+107,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6300,6100,08-Apr-19
+108,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5945,6250,6075,07-Apr-19
+109,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5910,6200,6025,06-Apr-19
+110,Nagpur,Kalmeshwar,Cotton,Other,FAQ,6000,6200,6100,05-Apr-19
+111,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5900,6150,6000,04-Apr-19
+112,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5900,6075,6000,03-Apr-19
+113,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5950,6075,6025,02-Apr-19
+114,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,6000,5850,01-Apr-19
+115,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,6000,5850,31-Mar-19
+116,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5975,5850,30-Mar-19
+117,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5975,5850,29-Mar-19
+118,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5975,5850,28-Mar-19
+119,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5750,6025,5850,27-Mar-19
+120,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5750,6025,5850,26-Mar-19
+121,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5950,5800,25-Mar-19
+122,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5950,5800,24-Mar-19
+123,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5700,5950,5800,23-Mar-19
+124,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5500,5900,5700,20-Mar-19
+125,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5500,5900,5700,19-Mar-19
+126,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5500,5875,5650,18-Mar-19
+127,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5500,5800,5650,17-Mar-19
+128,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5500,5775,5650,16-Mar-19
+129,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5700,5550,15-Mar-19
+130,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5700,5550,14-Mar-19
+131,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5625,5500,13-Mar-19
+132,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5600,5500,12-Mar-19
+133,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5475,5400,11-Mar-19
+134,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,10-Mar-19
+135,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,09-Mar-19
+136,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,08-Mar-19
+137,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,07-Mar-19
+138,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,06-Mar-19
+139,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,05-Mar-19
+140,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,04-Mar-19
+141,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,03-Mar-19
+142,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,02-Mar-19
+143,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5350,5400,5375,01-Mar-19
+144,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,28-Feb-19
+145,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,27-Feb-19
+146,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,26-Feb-19
+147,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,25-Feb-19
+148,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,24-Feb-19
+149,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,23-Feb-19
+150,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5200,5400,5345,22-Feb-19
+151,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5200,5400,5300,21-Feb-19
+152,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5375,5325,20-Feb-19
+153,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5200,5375,5300,19-Feb-19
+154,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5200,5375,5300,18-Feb-19
+155,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,17-Feb-19
+156,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,16-Feb-19
+157,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5375,5325,14-Feb-19
+158,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5375,5350,13-Feb-19
+159,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,12-Feb-19
+160,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5425,5350,11-Feb-19
+161,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5200,5420,5375,10-Feb-19
+162,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5235,5425,5350,09-Feb-19
+163,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,08-Feb-19
+164,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,07-Feb-19
+165,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,06-Feb-19
+166,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,05-Feb-19
+167,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,04-Feb-19
+168,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,03-Feb-19
+169,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,02-Feb-19
+170,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,01-Feb-19
+171,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,31-Jan-19
+172,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,30-Jan-19
+173,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,29-Jan-19
+174,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,28-Jan-19
+175,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,27-Jan-19
+176,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,26-Jan-19
+177,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,25-Jan-19
+178,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,24-Jan-19
+179,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5500,5400,23-Jan-19
+180,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5500,5400,22-Jan-19
+181,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,21-Jan-19
+182,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,20-Jan-19
+183,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,19-Jan-19
+184,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,18-Jan-19
+185,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,17-Jan-19
+186,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,16-Jan-19
+187,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5400,5350,15-Jan-19
+188,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,14-Jan-19
+189,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5450,5400,13-Jan-19
+190,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5350,5450,5410,12-Jan-19
+191,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5300,5500,5400,11-Jan-19
+192,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5350,5525,5450,10-Jan-19
+193,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5350,5550,5450,09-Jan-19
+194,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5550,5500,08-Jan-19
+195,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5625,5500,07-Jan-19
+196,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5450,5550,5500,05-Jan-19
+197,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5375,5550,5435,04-Jan-19
+198,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5375,5525,5435,03-Jan-19
+199,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5400,5525,5450,02-Jan-19
+200,Nagpur,Kalmeshwar,Cotton,Other,FAQ,5350,5500,5450,01-Jan-19
+201,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,31-Dec-19
+202,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,30-Dec-19
+203,Nagpur,Katol,Cotton,Desi,FAQ,5100,5250,5150,29-Dec-19
+204,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,27-Dec-19
+205,Nagpur,Katol,Cotton,Desi,FAQ,5000,5275,5125,26-Dec-19
+206,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,24-Dec-19
+207,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,23-Dec-19
+208,Nagpur,Katol,Cotton,Desi,FAQ,5000,5251,5150,22-Dec-19
+209,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,20-Dec-19
+210,Nagpur,Katol,Cotton,Desi,FAQ,4800,5250,5050,19-Dec-19
+211,Nagpur,Katol,Cotton,Desi,FAQ,4800,5250,5000,18-Dec-19
+212,Nagpur,Katol,Cotton,Desi,FAQ,4800,5250,5050,17-Dec-19
+213,Nagpur,Katol,Cotton,Desi,FAQ,4700,5250,4950,16-Dec-19
+214,Nagpur,Katol,Cotton,Desi,FAQ,4800,5200,5000,15-Dec-19
+215,Nagpur,Katol,Cotton,Desi,FAQ,4800,5200,5000,13-Dec-19
+216,Nagpur,Katol,Cotton,Desi,FAQ,4800,5200,5000,12-Dec-19
+217,Nagpur,Katol,Cotton,Desi,FAQ,4800,5200,5000,11-Dec-19
+218,Nagpur,Katol,Cotton,Desi,FAQ,4800,5175,4950,10-Dec-19
+219,Nagpur,Katol,Cotton,Desi,FAQ,4700,5150,4950,09-Dec-19
+220,Nagpur,Katol,Cotton,Desi,FAQ,4600,5100,4850,08-Dec-19
+221,Nagpur,Katol,Cotton,Desi,FAQ,4800,5000,4900,06-Dec-19
+222,Nagpur,Katol,Cotton,Desi,FAQ,4500,5000,4800,05-Dec-19
+223,Nagpur,Katol,Cotton,Desi,FAQ,4500,5000,4800,04-Dec-19
+224,Nagpur,Katol,Cotton,Desi,FAQ,4500,4950,4750,03-Dec-19
+225,Nagpur,Katol,Cotton,Desi,FAQ,4500,4950,4760,02-Dec-19
+226,Nagpur,Katol,Cotton,Desi,FAQ,4900,4950,4925,01-Dec-19
+227,Nagpur,Katol,Cotton,Desi,FAQ,4900,4950,4925,29-Nov-19
+228,Nagpur,Katol,Cotton,Desi,FAQ,4700,4950,4850,28-Nov-19
+229,Nagpur,Katol,Cotton,Desi,FAQ,4900,4950,4925,27-Nov-19
+230,Nagpur,Katol,Cotton,Desi,FAQ,5000,6050,5650,02-May-19
+231,Nagpur,Katol,Cotton,Desi,FAQ,5000,6000,5800,28-Apr-19
+232,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,26-Apr-19
+233,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,25-Apr-19
+234,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,23-Apr-19
+235,Nagpur,Katol,Cotton,Desi,FAQ,5100,6100,5800,22-Apr-19
+236,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,17-Apr-19
+237,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,16-Apr-19
+238,Nagpur,Katol,Cotton,Desi,FAQ,5100,6100,5800,15-Apr-19
+239,Nagpur,Katol,Cotton,Desi,FAQ,5000,6000,5800,12-Apr-19
+240,Nagpur,Katol,Cotton,Desi,FAQ,5000,6000,5800,10-Apr-19
+241,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,09-Apr-19
+242,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5800,08-Apr-19
+243,Nagpur,Katol,Cotton,Desi,FAQ,5000,6100,5850,07-Apr-19
+244,Nagpur,Katol,Cotton,Desi,FAQ,5000,6000,5800,05-Apr-19
+245,Nagpur,Katol,Cotton,Desi,FAQ,5000,6000,5800,04-Apr-19
+246,Nagpur,Katol,Cotton,Desi,FAQ,5000,5900,5700,03-Apr-19
+247,Nagpur,Katol,Cotton,Desi,FAQ,5000,5850,5650,01-Apr-19
+248,Nagpur,Katol,Cotton,Desi,FAQ,5000,5850,5650,31-Mar-19
+249,Nagpur,Katol,Cotton,Desi,FAQ,5000,5775,5560,29-Mar-19
+250,Nagpur,Katol,Cotton,Desi,FAQ,5000,5800,5600,28-Mar-19
+251,Nagpur,Katol,Cotton,Desi,FAQ,5000,5900,5700,27-Mar-19
+252,Nagpur,Katol,Cotton,Desi,FAQ,5000,5850,5650,26-Mar-19
+253,Nagpur,Katol,Cotton,Desi,FAQ,5000,5800,5650,25-Mar-19
+254,Nagpur,Katol,Cotton,Desi,FAQ,5000,5700,5500,24-Mar-19
+255,Nagpur,Katol,Cotton,Desi,FAQ,5000,5750,5550,19-Mar-19
+256,Nagpur,Katol,Cotton,Desi,FAQ,5000,5700,5550,18-Mar-19
+257,Nagpur,Katol,Cotton,Desi,FAQ,5000,5550,5350,17-Mar-19
+258,Nagpur,Katol,Cotton,Desi,FAQ,5000,5500,5300,15-Mar-19
+259,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5250,14-Mar-19
+260,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5250,13-Mar-19
+261,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,12-Mar-19
+262,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,11-Mar-19
+263,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,10-Mar-19
+264,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,08-Mar-19
+265,Nagpur,Katol,Cotton,Desi,FAQ,4800,5300,5100,07-Mar-19
+266,Nagpur,Katol,Cotton,Desi,FAQ,4800,5250,5150,06-Mar-19
+267,Nagpur,Katol,Cotton,Desi,FAQ,4800,5350,5150,03-Mar-19
+268,Nagpur,Katol,Cotton,Desi,FAQ,5000,5325,5160,01-Mar-19
+269,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5150,28-Feb-19
+270,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,27-Feb-19
+271,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5160,26-Feb-19
+272,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5160,25-Feb-19
+273,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5140,22-Feb-19
+274,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5150,21-Feb-19
+275,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,20-Feb-19
+276,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,18-Feb-19
+277,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,17-Feb-19
+278,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,15-Feb-19
+279,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5160,14-Feb-19
+280,Nagpur,Katol,Cotton,Desi,FAQ,5000,5300,5100,12-Feb-19
+281,Nagpur,Katol,Cotton,Desi,FAQ,5000,5350,5120,11-Feb-19
+282,Nagpur,Katol,Cotton,Desi,FAQ,5000,5250,5150,10-Feb-19
+283,Nagpur,Katol,Cotton,Desi,FAQ,4700,5300,5100,08-Feb-19
+284,Nagpur,Katol,Cotton,Desi,FAQ,4700,5300,5150,07-Feb-19
+285,Nagpur,Katol,Cotton,Desi,FAQ,5000,5350,5120,06-Feb-19
+286,Nagpur,Katol,Cotton,Desi,FAQ,5000,5350,5150,05-Feb-19
+287,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,04-Feb-19
+288,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,03-Feb-19
+289,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,01-Feb-19
+290,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,31-Jan-19
+291,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,30-Jan-19
+292,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,29-Jan-19
+293,Nagpur,Katol,Cotton,Desi,FAQ,5100,5400,5200,28-Jan-19
+294,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5230,27-Jan-19
+295,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,25-Jan-19
+296,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5250,24-Jan-19
+297,Nagpur,Katol,Cotton,Desi,FAQ,5000,5420,5250,23-Jan-19
+298,Nagpur,Katol,Cotton,Desi,FAQ,5000,5420,5250,22-Jan-19
+299,Nagpur,Katol,Cotton,Desi,FAQ,5000,5420,5220,21-Jan-19
+300,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5250,20-Jan-19
+301,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,18-Jan-19
+302,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,17-Jan-19
+303,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,16-Jan-19
+304,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,15-Jan-19
+305,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,14-Jan-19
+306,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,13-Jan-19
+307,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5250,11-Jan-19
+308,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5250,10-Jan-19
+309,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5260,09-Jan-19
+310,Nagpur,Katol,Cotton,Desi,FAQ,5000,5450,5250,08-Jan-19
+311,Nagpur,Katol,Cotton,Desi,FAQ,5000,5500,5200,07-Jan-19
+312,Nagpur,Katol,Cotton,Desi,FAQ,5000,5500,5300,06-Jan-19
+313,Nagpur,Katol,Cotton,Desi,FAQ,5000,5425,5250,04-Jan-19
+314,Nagpur,Katol,Cotton,Desi,FAQ,5100,5425,5320,03-Jan-19
+315,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,02-Jan-19
+316,Nagpur,Katol,Cotton,Desi,FAQ,5000,5400,5200,01-Jan-19
+317,Nagpur,Mandhal,Cotton,Other,FAQ,5217,5300,5241,31-Dec-19
+318,Nagpur,Mandhal,Cotton,Other,FAQ,5202,5250,5217,27-Dec-19
+319,Nagpur,Mandhal,Cotton,Other,FAQ,5142,5280,5188,24-Dec-19
+320,Nagpur,Mandhal,Cotton,Other,FAQ,5212,5280,5240,20-Dec-19
+321,Nagpur,Mandhal,Cotton,Other,FAQ,5184,5325,5249,17-Dec-19
+322,Nagpur,Mandhal,Cotton,Other,FAQ,5267,5370,5312,13-Dec-19
+323,Nagpur,Mandhal,Cotton,Other,FAQ,5142,5405,5274,10-Dec-19
+324,Nagpur,Mandhal,Cotton,Other,FAQ,5137,5190,5161,06-Dec-19
+325,Nagpur,Mandhal,Cotton,Other,FAQ,4944,5190,5053,03-Dec-19
+326,Nagpur,Mandhal,Cotton,Other,FAQ,5023,5150,5075,29-Nov-19
+327,Nagpur,Mandhal,Cotton,Other,FAQ,4922,5045,4958,26-Nov-19
+328,Nagpur,Mandhal,Cotton,Other,FAQ,4850,5000,4934,22-Nov-19
+329,Nagpur,Mandhal,Cotton,Other,FAQ,4693,4805,4724,19-Nov-19
+330,Nagpur,Mandhal,Cotton,Other,FAQ,4541,4700,4625,15-Nov-19
+331,Nagpur,Mandhal,Cotton,Other,FAQ,4391,4520,4438,12-Nov-19
+332,Nagpur,Mandhal,Cotton,Other,FAQ,4762,5010,4831,08-Nov-19
+333,Nagpur,Mandhal,Cotton,Other,FAQ,5100,5100,5100,05-Nov-19
+334,Nagpur,Mandhal,Cotton,Other,FAQ,5200,6100,5330,09-Apr-19
+335,Nagpur,Mandhal,Cotton,Desi,FAQ,4338,5775,4976,02-Apr-19
+336,Nagpur,Mandhal,Cotton,Other,FAQ,5759,6150,5917,26-Mar-19
+337,Nagpur,Mandhal,Cotton,Other,FAQ,5651,5900,5795,19-Mar-19
+338,Nagpur,Mandhal,Cotton,Desi,FAQ,4173,5500,4776,12-Mar-19
+339,Nagpur,Mandhal,Cotton,Desi,FAQ,5150,5150,5150,09-Mar-19
+340,Nagpur,Mandhal,Cotton,Other,FAQ,5168,5400,5254,08-Mar-19
+341,Nagpur,Mandhal,Cotton,Desi,FAQ,5000,5000,5000,06-Mar-19
+342,Nagpur,Mandhal,Cotton,Other,FAQ,5100,5230,5159,05-Mar-19
+343,Nagpur,Mandhal,Cotton,Other,FAQ,5126,5126,5126,02-Mar-19
+344,Nagpur,Mandhal,Cotton,Other,FAQ,5250,5250,5250,01-Mar-19
+345,Nagpur,Mandhal,Cotton,Other,FAQ,5011,5200,5087,27-Feb-19
+346,Nagpur,Mandhal,Cotton,Other,FAQ,4808,5300,4985,26-Feb-19
+347,Nagpur,Mandhal,Cotton,Other,FAQ,5123,5350,5217,23-Feb-19
+348,Nagpur,Mandhal,Cotton,Other,FAQ,5077,5355,5199,22-Feb-19
+349,Nagpur,Mandhal,Cotton,Other,FAQ,5123,5300,5201,20-Feb-19
+350,Nagpur,Mandhal,Cotton,Other,FAQ,4836,5400,5074,19-Feb-19
+351,Nagpur,Mandhal,Cotton,Other,FAQ,4510,4510,4510,16-Feb-19
+352,Nagpur,Mandhal,Cotton,Other,FAQ,5072,5072,5072,15-Feb-19
+353,Nagpur,Mandhal,Cotton,Other,FAQ,4974,4974,4974,13-Feb-19
+354,Nagpur,Mandhal,Cotton,Other,FAQ,5038,5350,5170,12-Feb-19
+355,Nagpur,Mandhal,Cotton,Other,FAQ,4907,5200,5000,09-Feb-19
+356,Nagpur,Mandhal,Cotton,Other,FAQ,4907,5300,5037,08-Feb-19
+357,Nagpur,Mandhal,Cotton,Other,FAQ,4934,5260,5021,06-Feb-19
+358,Nagpur,Mandhal,Cotton,Other,FAQ,5051,5350,5157,05-Feb-19
+359,Nagpur,Mandhal,Cotton,Other,FAQ,5179,5455,5336,02-Feb-19
+360,Nagpur,Mandhal,Cotton,Other,FAQ,5239,5450,5330,01-Feb-19
+361,Nagpur,Mandhal,Cotton,Other,FAQ,5314,5450,5364,30-Jan-19
+362,Nagpur,Mandhal,Cotton,Other,FAQ,5212,5375,5283,29-Jan-19
+363,Nagpur,Mandhal,Cotton,Other,FAQ,5165,5310,5255,25-Jan-19
+364,Nagpur,Mandhal,Cotton,Other,FAQ,5325,5385,5352,23-Jan-19
+365,Nagpur,Mandhal,Cotton,Other,FAQ,5303,5410,5348,22-Jan-19
+366,Nagpur,Mandhal,Cotton,Other,FAQ,5341,5400,5367,19-Jan-19
+367,Nagpur,Mandhal,Cotton,Other,FAQ,5437,5500,5462,18-Jan-19
+368,Nagpur,Mandhal,Cotton,Other,FAQ,5185,5350,5254,16-Jan-19
+369,Nagpur,Mandhal,Cotton,Other,FAQ,5204,5350,5279,15-Jan-19
+370,Nagpur,Mandhal,Cotton,Other,FAQ,5361,5430,5392,12-Jan-19
+371,Nagpur,Mandhal,Cotton,Other,FAQ,5349,5435,5382,11-Jan-19
+372,Nagpur,Mandhal,Cotton,Other,FAQ,5326,5450,5383,09-Jan-19
+373,Nagpur,Mandhal,Cotton,Other,FAQ,5263,5425,5330,08-Jan-19
+374,Nagpur,Mandhal,Cotton,Other,FAQ,5387,5510,5447,05-Jan-19
+375,Nagpur,Mandhal,Cotton,Other,FAQ,5367,5515,5453,04-Jan-19
+376,Nagpur,Mandhal,Cotton,Other,FAQ,5295,5570,5404,02-Jan-19
+377,Nagpur,Mandhal,Cotton,Other,FAQ,5424,5560,5479,01-Jan-19
+378,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,6210,6210,6210,09-May-19
+379,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,6235,6235,6235,08-May-19
+380,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,6210,6210,6210,02-May-19
+381,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5920,6200,6200,25-Apr-19
+382,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5960,6200,6160,15-Apr-19
+383,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5900,6125,6125,12-Apr-19
+384,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,6135,6175,6175,11-Apr-19
+385,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5950,6175,6150,09-Apr-19
+386,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5500,6175,6150,08-Apr-19
+387,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,6000,6000,6000,04-Apr-19
+388,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5570,6000,5990,03-Apr-19
+389,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5800,5990,5990,02-Apr-19
+390,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5950,6000,5975,01-Apr-19
+391,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,6000,5950,27-Mar-19
+392,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5800,5960,5906,25-Mar-19
+393,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5750,5800,5800,22-Mar-19
+394,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5310,5310,5310,20-Mar-19
+395,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5656,5750,5750,19-Mar-19
+396,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5310,5800,5550,18-Mar-19
+397,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5500,5700,5675,16-Mar-19
+398,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5500,5600,5550,15-Mar-19
+399,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5439,5700,5650,14-Mar-19
+400,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5600,5600,5600,13-Mar-19
+401,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5550,5550,5550,12-Mar-19
+402,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5389,5500,5485,11-Mar-19
+403,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5375,5500,5490,08-Mar-19
+404,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5325,5450,5400,07-Mar-19
+405,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5450,5424,06-Mar-19
+406,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5300,5400,5400,05-Mar-19
+407,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5360,5365,5365,23-Feb-19
+408,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5320,5320,5320,22-Feb-19
+409,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5325,5370,5350,21-Feb-19
+410,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5325,5325,5325,20-Feb-19
+411,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5325,5325,5325,18-Feb-19
+412,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5238,5238,5238,16-Feb-19
+413,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5550,5565,5565,15-Feb-19
+414,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5425,5425,14-Feb-19
+415,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5430,5430,5430,13-Feb-19
+416,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5430,5450,5450,12-Feb-19
+417,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5375,5375,5375,11-Feb-19
+418,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5325,5465,5440,05-Feb-19
+419,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5450,5470,5470,01-Feb-19
+420,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5440,5440,5440,30-Jan-19
+421,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5440,5400,29-Jan-19
+422,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5440,5440,5440,24-Jan-19
+423,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5450,5450,5450,23-Jan-19
+424,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5430,5450,5450,22-Jan-19
+425,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5460,5485,5485,21-Jan-19
+426,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5475,5475,5475,18-Jan-19
+427,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5450,5450,17-Jan-19
+428,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5400,5400,16-Jan-19
+429,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5400,5400,15-Jan-19
+430,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5400,5540,5500,14-Jan-19
+431,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5350,5400,5400,12-Jan-19
+432,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5450,5450,5450,11-Jan-19
+433,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5350,5550,5450,10-Jan-19
+434,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5525,5525,5525,09-Jan-19
+435,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5525,5525,5525,08-Jan-19
+436,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5525,5525,5525,07-Jan-19
+437,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5520,5530,5530,05-Jan-19
+438,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5450,5500,5500,04-Jan-19
+439,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5375,5535,5500,03-Jan-19
+440,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5410,5510,5510,02-Jan-19
+441,Nagpur,Nagpur(Hingna),Cotton,Other,FAQ,5450,5535,5500,01-Jan-19
+442,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5300,5200,30-Dec-19
+443,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5325,5200,29-Dec-19
+444,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5200,28-Dec-19
+445,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5300,5200,27-Dec-19
+446,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5200,26-Dec-19
+447,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5300,5200,25-Dec-19
+448,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5323,5250,24-Dec-19
+449,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5200,23-Dec-19
+450,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5300,5200,22-Dec-19
+451,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5200,21-Dec-19
+452,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5300,5200,20-Dec-19
+453,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5350,5200,19-Dec-19
+454,Nagpur,Narkhed,Cotton,Other,FAQ,5100,5350,5200,18-Dec-19
+455,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5325,5200,17-Dec-19
+456,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5400,5200,16-Dec-19
+457,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5250,5100,15-Dec-19
+458,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5150,14-Dec-19
+459,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5250,5100,13-Dec-19
+460,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5300,5100,12-Dec-19
+461,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5250,5100,11-Dec-19
+462,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5250,5100,10-Dec-19
+463,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5288,5100,09-Dec-19
+464,Nagpur,Narkhed,Cotton,Other,FAQ,5000,5200,5100,08-Dec-19
+465,Nagpur,Narkhed,Cotton,Other,FAQ,4900,5200,5000,07-Dec-19
+466,Nagpur,Narkhed,Cotton,Other,FAQ,4900,5050,5000,06-Dec-19
+467,Nagpur,Narkhed,Cotton,Other,FAQ,4900,5100,5000,05-Dec-19
+468,Nagpur,Narkhed,Cotton,Other,FAQ,4900,5050,5000,04-Dec-19
+469,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5020,4900,03-Dec-19
+470,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5020,5000,02-Dec-19
+471,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5050,4900,01-Dec-19
+472,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5050,4900,30-Nov-19
+473,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5000,4900,29-Nov-19
+474,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5050,4900,28-Nov-19
+475,Nagpur,Narkhed,Cotton,Other,FAQ,4700,5439,5050,27-Nov-19
+476,Nagpur,Narkhed,Cotton,Other,FAQ,4700,4850,4800,26-Nov-19
+477,Nagpur,Narkhed,Cotton,Other,FAQ,4700,4850,4750,25-Nov-19
+478,Nagpur,Narkhed,Cotton,Other,FAQ,4600,4850,4700,24-Nov-19
+479,Nagpur,Narkhed,Cotton,Other,FAQ,4700,4873,4825,23-Nov-19
+480,Nagpur,Narkhed,Cotton,Other,FAQ,4700,4850,4750,22-Nov-19
+481,Nagpur,Narkhed,Cotton,Other,FAQ,4700,4850,4750,21-Nov-19
+482,Nagpur,Narkhed,Cotton,Other,FAQ,4600,4850,4700,20-Nov-19
+483,Nagpur,Narkhed,Cotton,Other,FAQ,4400,4600,4500,19-Nov-19
+484,Nagpur,Narkhed,Cotton,Other,FAQ,4500,4650,4550,18-Nov-19
+485,Nagpur,Narkhed,Cotton,Other,FAQ,4500,4650,4500,17-Nov-19
+486,Nagpur,Narkhed,Cotton,Other,FAQ,4500,4650,4550,16-Nov-19
+487,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,15-Nov-19
+488,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,14-Nov-19
+489,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,13-Nov-19
+490,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,12-Nov-19
+491,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4100,11-Nov-19
+492,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,10-Nov-19
+493,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,09-Nov-19
+494,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,08-Nov-19
+495,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,07-Nov-19
+496,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,06-Nov-19
+497,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,04-Nov-19
+498,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,03-Nov-19
+499,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,02-Nov-19
+500,Nagpur,Narkhed,Cotton,Other,FAQ,4000,4600,4200,01-Nov-19
+501,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,15-May-19
+502,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,14-May-19
+503,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,13-May-19
+504,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,12-May-19
+505,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6050,11-May-19
+506,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6050,6000,10-May-19
+507,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,09-May-19
+508,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6150,6000,08-May-19
+509,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6100,6000,07-May-19
+510,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6150,6000,06-May-19
+511,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6050,6000,05-May-19
+512,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6100,5900,04-May-19
+513,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,03-May-19
+514,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6300,6100,02-May-19
+515,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,01-May-19
+516,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,30-Apr-19
+517,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6050,29-Apr-19
+518,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,28-Apr-19
+519,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,27-Apr-19
+520,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,26-Apr-19
+521,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,25-Apr-19
+522,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,24-Apr-19
+523,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6100,23-Apr-19
+524,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,22-Apr-19
+525,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6150,6000,21-Apr-19
+526,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,20-Apr-19
+527,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6100,19-Apr-19
+528,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,18-Apr-19
+529,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6150,6000,17-Apr-19
+530,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6100,5800,16-Apr-19
+531,Nagpur,Narkhed,Cotton,Other,FAQ,6000,6250,6100,15-Apr-19
+532,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,14-Apr-19
+533,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,13-Apr-19
+534,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6200,6000,12-Apr-19
+535,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,11-Apr-19
+536,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6200,6000,10-Apr-19
+537,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,09-Apr-19
+538,Nagpur,Narkhed,Cotton,Other,FAQ,5900,6250,6000,08-Apr-19
+539,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6100,5800,07-Apr-19
+540,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6100,5850,06-Apr-19
+541,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6100,5800,05-Apr-19
+542,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6000,5900,04-Apr-19
+543,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6000,5800,03-Apr-19
+544,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6000,5850,02-Apr-19
+545,Nagpur,Narkhed,Cotton,Other,FAQ,5700,6000,5800,01-Apr-19
+546,Nagpur,Narkhed,Cotton,Other,FAQ,5700,5900,5800,31-Mar-19
+547,Nagpur,Narkhed,Cotton,Other,FAQ,5700,5900,5800,30-Mar-19
+548,Nagpur,Narkhed,Cotton,Other,FAQ,5500,5900,5600,29-Mar-19
+549,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5900,5600,28-Mar-19
+550,Nagpur,Narkhed,Cotton,Other,FAQ,5250,6000,5500,27-Mar-19
+551,Nagpur,Narkhed,Cotton,Other,FAQ,5500,6000,5700,26-Mar-19
+552,Nagpur,Narkhed,Cotton,Other,FAQ,5500,6000,5800,25-Mar-19
+553,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5900,5600,24-Mar-19
+554,Nagpur,Narkhed,Cotton,Other,FAQ,4800,5800,5200,23-Mar-19
+555,Nagpur,Narkhed,Cotton,Other,FAQ,5700,5850,5800,20-Mar-19
+556,Nagpur,Narkhed,Cotton,Other,FAQ,5700,5850,5800,19-Mar-19
+557,Nagpur,Narkhed,Cotton,Other,FAQ,5500,5850,5700,18-Mar-19
+558,Nagpur,Narkhed,Cotton,Other,FAQ,5600,5750,5650,17-Mar-19
+559,Nagpur,Narkhed,Cotton,Other,FAQ,5600,5700,5650,16-Mar-19
+560,Nagpur,Narkhed,Cotton,Other,FAQ,5500,5600,5550,15-Mar-19
+561,Nagpur,Narkhed,Cotton,Other,FAQ,5400,5600,5500,14-Mar-19
+562,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5400,13-Mar-19
+563,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,12-Mar-19
+564,Nagpur,Narkhed,Cotton,Other,FAQ,5350,5450,5400,11-Mar-19
+565,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,10-Mar-19
+566,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,09-Mar-19
+567,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,08-Mar-19
+568,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,07-Mar-19
+569,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,06-Mar-19
+570,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5350,5300,05-Mar-19
+571,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5350,5300,04-Mar-19
+572,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5300,5250,03-Mar-19
+573,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5300,5250,02-Mar-19
+574,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5300,5275,01-Mar-19
+575,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5350,5300,28-Feb-19
+576,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,27-Feb-19
+577,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,26-Feb-19
+578,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,25-Feb-19
+579,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,24-Feb-19
+580,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,23-Feb-19
+581,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,22-Feb-19
+582,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,21-Feb-19
+583,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,20-Feb-19
+584,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,19-Feb-19
+585,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,18-Feb-19
+586,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,17-Feb-19
+587,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,16-Feb-19
+588,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,15-Feb-19
+589,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,14-Feb-19
+590,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,13-Feb-19
+591,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,12-Feb-19
+592,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,11-Feb-19
+593,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,10-Feb-19
+594,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,09-Feb-19
+595,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,08-Feb-19
+596,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,07-Feb-19
+597,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,06-Feb-19
+598,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5350,05-Feb-19
+599,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,04-Feb-19
+600,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,03-Feb-19
+601,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,02-Feb-19
+602,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,01-Feb-19
+603,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,31-Jan-19
+604,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,30-Jan-19
+605,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,29-Jan-19
+606,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,28-Jan-19
+607,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,27-Jan-19
+608,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5400,5300,26-Jan-19
+609,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,25-Jan-19
+610,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,24-Jan-19
+611,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,23-Jan-19
+612,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5450,5400,22-Jan-19
+613,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,21-Jan-19
+614,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5400,5300,20-Jan-19
+615,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5400,5300,19-Jan-19
+616,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5400,5300,18-Jan-19
+617,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5400,5300,17-Jan-19
+618,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5450,5300,16-Jan-19
+619,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,15-Jan-19
+620,Nagpur,Narkhed,Cotton,Other,FAQ,5250,5400,5300,14-Jan-19
+621,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5450,13-Jan-19
+622,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5450,12-Jan-19
+623,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5450,11-Jan-19
+624,Nagpur,Narkhed,Cotton,Other,FAQ,5350,5500,5400,10-Jan-19
+625,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5400,09-Jan-19
+626,Nagpur,Narkhed,Cotton,Other,FAQ,5400,5500,5450,08-Jan-19
+627,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5400,07-Jan-19
+628,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,06-Jan-19
+629,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5500,5350,05-Jan-19
+630,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5500,5300,04-Jan-19
+631,Nagpur,Narkhed,Cotton,Other,FAQ,5300,5500,5450,03-Jan-19
+632,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,02-Jan-19
+633,Nagpur,Narkhed,Cotton,Other,FAQ,5200,5450,5300,01-Jan-19
+634,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5550,5400,31-Dec-19
+635,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5550,5400,30-Dec-19
+636,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5365,28-Dec-19
+637,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5550,5450,27-Dec-19
+638,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5350,25-Dec-19
+639,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,155,5550,5450,24-Dec-19
+640,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5400,5550,5425,23-Dec-19
+641,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5350,5325,21-Dec-19
+642,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5500,5400,20-Dec-19
+643,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5500,5425,19-Dec-19
+644,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5380,5400,5390,18-Dec-19
+645,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5400,5385,17-Dec-19
+646,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5400,5390,16-Dec-19
+647,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5325,5315,14-Dec-19
+648,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5275,5500,5400,13-Dec-19
+649,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5500,5350,12-Dec-19
+650,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5500,5350,11-Dec-19
+651,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5200,5500,5375,10-Dec-19
+652,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5200,5500,5350,09-Dec-19
+653,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5150,5175,5165,07-Dec-19
+654,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5175,5500,5293,06-Dec-19
+655,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5150,5445,5325,05-Dec-19
+656,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5100,5494,5250,04-Dec-19
+657,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5050,5494,5325,03-Dec-19
+658,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5100,5494,5300,02-Dec-19
+659,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,4950,5000,4975,30-Nov-19
+660,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,4900,5000,4950,29-Nov-19
+661,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,4875,4950,4925,28-Nov-19
+662,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,4850,4950,4900,27-Nov-19
+663,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,4900,5100,4975,26-Nov-19
+664,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,6100,6250,6200,15-Apr-19
+665,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5800,6175,6000,12-Apr-19
+666,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,6150,6200,6185,09-Apr-19
+667,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,6000,6200,6175,08-Apr-19
+668,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,6000,6200,6100,06-Apr-19
+669,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,6080,6100,6090,05-Apr-19
+670,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5950,6125,6000,04-Apr-19
+671,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5900,6000,5950,03-Apr-19
+672,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5800,5950,5900,02-Apr-19
+673,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5850,5950,5900,30-Mar-19
+674,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5800,5900,5850,29-Mar-19
+675,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5800,6000,5900,27-Mar-19
+676,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5700,6000,5900,26-Mar-19
+677,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5800,5950,5900,25-Mar-19
+678,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5500,5900,5800,23-Mar-19
+679,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5600,5800,5750,18-Mar-19
+680,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5500,5600,5575,16-Mar-19
+681,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5500,5575,5550,15-Mar-19
+682,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5600,5550,14-Mar-19
+683,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5400,5475,5450,13-Mar-19
+684,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5430,5415,12-Mar-19
+685,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5400,5395,11-Mar-19
+686,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5376,5365,09-Mar-19
+687,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5350,5340,08-Mar-19
+688,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5375,5360,07-Mar-19
+689,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5340,5325,06-Mar-19
+690,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5350,5335,05-Mar-19
+691,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5350,5328,04-Mar-19
+692,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5225,5250,5225,02-Mar-19
+693,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5225,5300,5275,01-Mar-19
+694,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5300,5275,28-Feb-19
+695,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5200,5300,5250,27-Feb-19
+696,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5275,5300,5290,26-Feb-19
+697,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5275,5325,5300,25-Feb-19
+698,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5280,5310,5290,23-Feb-19
+699,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5275,5300,5290,22-Feb-19
+700,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5300,5280,21-Feb-19
+701,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5225,5300,5275,20-Feb-19
+702,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5300,5275,19-Feb-19
+703,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5200,5300,5270,18-Feb-19
+704,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5300,5275,16-Feb-19
+705,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5225,5300,5260,15-Feb-19
+706,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5150,5300,5250,14-Feb-19
+707,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5200,5300,5275,13-Feb-19
+708,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5300,5350,5310,12-Feb-19
+709,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5350,5330,11-Feb-19
+710,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,130,260,130,09-Feb-19
+711,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,110,220,110,08-Feb-19
+712,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,125,250,125,07-Feb-19
+713,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,150,300,150,06-Feb-19
+714,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5250,5375,5300,05-Feb-19
+715,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5375,5425,5400,04-Feb-19
+716,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5370,5350,02-Feb-19
+717,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5330,5350,5340,01-Feb-19
+718,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5400,5425,5415,31-Jan-19
+719,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5380,5400,5390,30-Jan-19
+720,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5340,5350,5345,29-Jan-19
+721,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5365,28-Jan-19
+722,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5360,5375,5370,25-Jan-19
+723,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5360,24-Jan-19
+724,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5360,5375,5370,23-Jan-19
+725,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5380,5400,5390,22-Jan-19
+726,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5365,21-Jan-19
+727,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5385,5370,18-Jan-19
+728,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5400,5375,17-Jan-19
+729,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5365,5350,16-Jan-19
+730,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5325,5375,5350,15-Jan-19
+731,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5350,5375,5365,14-Jan-19
+732,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5400,5425,5420,12-Jan-19
+733,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5400,5450,5425,11-Jan-19
+734,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5435,5460,5450,10-Jan-19
+735,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5425,5450,5435,09-Jan-19
+736,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5430,5450,5440,08-Jan-19
+737,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5450,5475,5470,07-Jan-19
+738,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5450,5475,5470,05-Jan-19
+739,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5460,5470,5460,04-Jan-19
+740,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5440,5450,5445,03-Jan-19
+741,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5440,5460,5450,02-Jan-19
+742,Nagpur,Parshiwani,Cotton,H-4(A) 27mm FIne,FAQ,5430,5450,5440,01-Jan-19
+743,Nagpur,Savner,Cotton,Other,FAQ,5275,5400,5325,31-Dec-19
+744,Nagpur,Savner,Cotton,Other,FAQ,5275,5550,5350,30-Dec-19
+745,Nagpur,Savner,Cotton,Other,FAQ,5275,5550,5350,28-Dec-19
+746,Nagpur,Savner,Cotton,Other,FAQ,5275,5550,5350,27-Dec-19
+747,Nagpur,Savner,Cotton,Other,FAQ,5300,5550,5400,26-Dec-19
+748,Nagpur,Savner,Cotton,Other,FAQ,5300,5550,5400,25-Dec-19
+749,Nagpur,Savner,Cotton,Other,FAQ,5300,5550,5400,24-Dec-19
+750,Nagpur,Savner,Cotton,Other,FAQ,5300,5550,5400,23-Dec-19
+751,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,21-Dec-19
+752,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,20-Dec-19
+753,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,19-Dec-19
+754,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5350,18-Dec-19
+755,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,17-Dec-19
+756,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,16-Dec-19
+757,Nagpur,Savner,Cotton,Other,FAQ,5300,5500,5400,14-Dec-19
+758,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5250,13-Dec-19
+759,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5250,12-Dec-19
+760,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5250,11-Dec-19
+761,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5250,10-Dec-19
+762,Nagpur,Savner,Cotton,Other,FAQ,5200,5500,5250,09-Dec-19
+763,Nagpur,Savner,Cotton,Other,FAQ,5100,5500,5200,07-Dec-19
+764,Nagpur,Savner,Cotton,Other,FAQ,5100,5500,5200,06-Dec-19
+765,Nagpur,Savner,Cotton,Other,FAQ,5050,5500,5200,05-Dec-19
+766,Nagpur,Savner,Cotton,Other,FAQ,5050,5500,5200,04-Dec-19
+767,Nagpur,Savner,Cotton,Other,FAQ,5000,5550,5100,03-Dec-19
+768,Nagpur,Savner,Cotton,Other,FAQ,5000,5550,5050,02-Dec-19
+769,Nagpur,Savner,Cotton,Other,FAQ,5000,5050,5050,30-Nov-19
+770,Nagpur,Savner,Cotton,Other,FAQ,5000,5050,5050,29-Nov-19
+771,Nagpur,Savner,Cotton,Other,FAQ,4900,5100,5000,28-Nov-19
+772,Nagpur,Savner,Cotton,Other,FAQ,4900,5100,5000,27-Nov-19
+773,Nagpur,Savner,Cotton,Other,FAQ,4800,4950,4875,26-Nov-19
+774,Nagpur,Savner,Cotton,Other,FAQ,4800,4951,4875,25-Nov-19
+775,Nagpur,Savner,Cotton,Other,FAQ,4650,4750,4700,23-Nov-19
+776,Nagpur,Savner,Cotton,Other,FAQ,4650,4750,4700,22-Nov-19
+777,Nagpur,Savner,Cotton,Other,FAQ,4650,4750,4700,21-Nov-19
+778,Nagpur,Savner,Cotton,Other,FAQ,4650,4750,4700,20-Nov-19
+779,Nagpur,Savner,Cotton,Other,FAQ,4600,5151,4650,19-Nov-19
+780,Nagpur,Savner,Cotton,Other,FAQ,4600,4611,4611,18-Nov-19
+781,Nagpur,Savner,Cotton,Other,FAQ,4600,4611,4611,16-Nov-19
+782,Nagpur,Savner,Cotton,Other,FAQ,4600,4611,4611,15-Nov-19
+783,Nagpur,Savner,Cotton,Other,FAQ,4600,4611,4611,14-Nov-19
+784,Nagpur,Savner,Cotton,Other,FAQ,4600,4600,4600,13-Nov-19
+785,Nagpur,Savner,Cotton,Other,FAQ,5000,5000,5000,12-Nov-19
+786,Nagpur,Savner,Cotton,Other,FAQ,5000,5000,5000,11-Nov-19
+787,Nagpur,Savner,Cotton,Other,FAQ,5000,5000,5000,09-Nov-19
+788,Nagpur,Savner,Cotton,Other,FAQ,6050,6250,6150,10-Apr-19
+789,Nagpur,Savner,Cotton,Other,FAQ,6100,6250,6200,09-Apr-19
+790,Nagpur,Savner,Cotton,Other,FAQ,6000,6250,6150,08-Apr-19
+791,Nagpur,Savner,Cotton,Other,FAQ,5950,6100,6025,05-Apr-19
+792,Nagpur,Savner,Cotton,Other,FAQ,5900,6025,5975,04-Apr-19
+793,Nagpur,Savner,Cotton,Other,FAQ,5850,6025,5950,02-Apr-19
+794,Nagpur,Savner,Cotton,Other,FAQ,5850,5950,5925,01-Apr-19
+795,Nagpur,Savner,Cotton,Other,FAQ,5800,5911,5850,30-Mar-19
+796,Nagpur,Savner,Cotton,Other,FAQ,5750,5850,5810,29-Mar-19
+797,Nagpur,Savner,Cotton,Other,FAQ,5800,5950,5875,28-Mar-19
+798,Nagpur,Savner,Cotton,Other,FAQ,5800,6000,5925,27-Mar-19
+799,Nagpur,Savner,Cotton,Other,FAQ,5900,6025,5975,25-Mar-19
+800,Nagpur,Savner,Cotton,Other,FAQ,5800,5900,5825,23-Mar-19
+801,Nagpur,Savner,Cotton,Other,FAQ,5600,5650,5625,15-Mar-19
+802,Nagpur,Savner,Cotton,Other,FAQ,5575,5675,5625,14-Mar-19
+803,Nagpur,Savner,Cotton,Other,FAQ,5450,5550,5500,13-Mar-19
+804,Nagpur,Savner,Cotton,Other,FAQ,5450,5500,5500,12-Mar-19
+805,Nagpur,Savner,Cotton,Other,FAQ,5425,5475,5450,11-Mar-19
+806,Nagpur,Savner,Cotton,Other,FAQ,5350,5400,5400,08-Mar-19
+807,Nagpur,Savner,Cotton,Other,FAQ,5325,5400,5375,06-Mar-19
+808,Nagpur,Savner,Cotton,Other,FAQ,5325,5325,5325,04-Mar-19
+809,Nagpur,Savner,Cotton,Other,FAQ,5325,5325,5325,01-Mar-19
+810,Nagpur,Savner,Cotton,Other,FAQ,5325,5325,5325,22-Feb-19
+811,Nagpur,Savner,Cotton,Other,FAQ,5325,5325,5325,19-Feb-19
+812,Nagpur,Savner,Cotton,Other,FAQ,5325,5325,5325,18-Feb-19
+813,Nagpur,Savner,Cotton,Other,FAQ,5300,5325,5325,16-Feb-19
+814,Nagpur,Savner,Cotton,Other,FAQ,5300,5325,5325,15-Feb-19
+815,Nagpur,Savner,Cotton,Other,FAQ,5325,5350,5350,14-Feb-19
+816,Nagpur,Savner,Cotton,Other,FAQ,5325,5375,5350,13-Feb-19
+817,Nagpur,Savner,Cotton,Other,FAQ,5350,5375,5350,12-Feb-19
+818,Nagpur,Savner,Cotton,Other,FAQ,5300,5375,5375,11-Feb-19
+819,Nagpur,Savner,Cotton,Other,FAQ,5350,5350,5350,09-Feb-19
+820,Nagpur,Savner,Cotton,Other,FAQ,5350,5350,5350,08-Feb-19
+821,Nagpur,Savner,Cotton,Other,FAQ,5350,5350,5350,07-Feb-19
+822,Nagpur,Savner,Cotton,Other,FAQ,5350,5350,5350,06-Feb-19
+823,Nagpur,Savner,Cotton,Other,FAQ,5350,5350,5350,05-Feb-19
+824,Nagpur,Savner,Cotton,Other,FAQ,5400,5450,5425,23-Jan-19
+825,Nagpur,Savner,Cotton,Other,FAQ,5400,5450,5425,22-Jan-19
+826,Nagpur,Savner,Cotton,Other,FAQ,5375,5425,5400,21-Jan-19
+827,Nagpur,Savner,Cotton,Other,FAQ,5375,5400,5400,19-Jan-19
+828,Nagpur,Savner,Cotton,Other,FAQ,5375,5400,5400,18-Jan-19
+829,Nagpur,Savner,Cotton,Other,FAQ,5350,5400,5375,17-Jan-19
+830,Nagpur,Savner,Cotton,Other,FAQ,5350,5400,5375,16-Jan-19
+831,Nagpur,Savner,Cotton,Other,FAQ,5350,5400,5400,15-Jan-19
+832,Nagpur,Savner,Cotton,Other,FAQ,5400,5400,5400,14-Jan-19
+833,Nagpur,Savner,Cotton,Other,FAQ,5425,5450,5450,12-Jan-19
+834,Nagpur,Savner,Cotton,Other,FAQ,5450,5450,5450,11-Jan-19
+835,Nagpur,Savner,Cotton,Other,FAQ,5400,5475,5440,10-Jan-19
+836,Nagpur,Savner,Cotton,Other,FAQ,5400,5475,5430,09-Jan-19
+837,Nagpur,Savner,Cotton,Other,FAQ,5475,5525,5500,08-Jan-19
+838,Nagpur,Savner,Cotton,Other,FAQ,5475,5525,5500,07-Jan-19
+839,Nagpur,Savner,Cotton,Other,FAQ,5425,5475,5450,05-Jan-19
+840,Nagpur,Savner,Cotton,Other,FAQ,5425,5475,5450,04-Jan-19
+841,Nagpur,Savner,Cotton,Other,FAQ,5400,5475,5450,03-Jan-19
+842,Nagpur,Savner,Cotton,Other,FAQ,5450,5475,5475,02-Jan-19
+843,Nagpur,Savner,Cotton,Other,FAQ,5425,5450,5450,01-Jan-19
+844,Nagpur,Umared,Cotton,Desi,FAQ,5200,5300,5250,31-Dec-19
+845,Nagpur,Umared,Cotton,Desi,FAQ,5200,5350,5300,30-Dec-19
+846,Nagpur,Umared,Cotton,Desi,FAQ,5200,5300,5250,28-Dec-19
+847,Nagpur,Umared,Cotton,Desi,FAQ,5200,5375,5320,27-Dec-19
+848,Nagpur,Umared,Cotton,Desi,FAQ,5200,5375,5350,24-Dec-19
+849,Nagpur,Umared,Cotton,Desi,FAQ,5200,5370,5350,23-Dec-19
+850,Nagpur,Umared,Cotton,Desi,FAQ,5200,5330,5300,21-Dec-19
+851,Nagpur,Umared,Cotton,Desi,FAQ,5200,5380,5350,20-Dec-19
+852,Nagpur,Umared,Cotton,Desi,FAQ,5240,5370,5330,18-Dec-19
+853,Nagpur,Umared,Cotton,Desi,FAQ,5280,5380,5350,17-Dec-19
+854,Nagpur,Umared,Cotton,Desi,FAQ,5200,5400,5350,16-Dec-19
+855,Nagpur,Umared,Cotton,Desi,FAQ,5300,5430,5400,13-Dec-19
+856,Nagpur,Umared,Cotton,Desi,FAQ,5250,5350,5300,11-Dec-19
+857,Nagpur,Umared,Cotton,Desi,FAQ,5200,5380,5340,10-Dec-19
+858,Nagpur,Umared,Cotton,Desi,FAQ,5250,5400,5350,09-Dec-19
+859,Nagpur,Umared,Cotton,Desi,FAQ,5040,5190,5140,06-Dec-19
+860,Nagpur,Umared,Cotton,Desi,FAQ,5090,5150,5100,04-Dec-19
+861,Nagpur,Umared,Cotton,Desi,FAQ,5000,5185,5125,02-Dec-19
+862,Nagpur,Umared,Cotton,Desi,FAQ,5000,5105,5050,29-Nov-19
+863,Nagpur,Umared,Cotton,Desi,FAQ,4800,5100,5050,27-Nov-19
+864,Nagpur,Umared,Cotton,Desi,FAQ,5025,5100,5050,26-Nov-19
+865,Nagpur,Umared,Cotton,Desi,FAQ,5000,5170,5125,25-Nov-19
+866,Nagpur,Umared,Cotton,Desi,FAQ,4900,5050,5000,22-Nov-19
+867,Nagpur,Umared,Cotton,Desi,FAQ,4800,4950,4900,20-Nov-19
+868,Nagpur,Umared,Cotton,Desi,FAQ,4950,4950,4950,19-Nov-19
+869,Nagpur,Umared,Cotton,Desi,FAQ,4500,4850,4800,18-Nov-19
+870,Nagpur,Umared,Cotton,Desi,FAQ,6000,6250,6200,10-May-19
+871,Nagpur,Umared,Cotton,Desi,FAQ,6200,6200,6200,08-May-19
+872,Nagpur,Umared,Cotton,Desi,FAQ,6000,6325,6300,06-May-19
+873,Nagpur,Umared,Cotton,Desi,FAQ,6000,6340,6300,03-May-19
+874,Nagpur,Umared,Cotton,Desi,FAQ,6000,6350,6300,30-Apr-19
+875,Nagpur,Umared,Cotton,Desi,FAQ,6000,6465,6420,29-Apr-19
+876,Nagpur,Umared,Cotton,Desi,FAQ,6000,6375,6350,27-Apr-19
+877,Nagpur,Umared,Cotton,Desi,FAQ,6000,6405,6350,26-Apr-19
+878,Nagpur,Umared,Cotton,Desi,FAQ,6000,6360,6300,24-Apr-19
+879,Nagpur,Umared,Cotton,Desi,FAQ,6040,6380,6350,23-Apr-19
+880,Nagpur,Umared,Cotton,Desi,FAQ,6100,6435,6400,22-Apr-19
+881,Nagpur,Umared,Cotton,Desi,FAQ,5900,6345,6300,16-Apr-19
+882,Nagpur,Umared,Cotton,Desi,FAQ,5800,6420,6400,15-Apr-19
+883,Nagpur,Umared,Cotton,Desi,FAQ,5500,6320,6250,12-Apr-19
+884,Nagpur,Umared,Cotton,Desi,FAQ,6000,6290,6250,10-Apr-19
+885,Nagpur,Umared,Cotton,Desi,FAQ,6000,6300,6250,09-Apr-19
+886,Nagpur,Umared,Cotton,Desi,FAQ,6100,6400,6350,08-Apr-19
+887,Nagpur,Umared,Cotton,Desi,FAQ,5800,6200,6150,03-Apr-19
+888,Nagpur,Umared,Cotton,Desi,FAQ,5900,6135,6100,02-Apr-19
+889,Nagpur,Umared,Cotton,Desi,FAQ,6000,6190,6150,01-Apr-19
+890,Nagpur,Umared,Cotton,Desi,FAQ,5800,5950,5900,30-Mar-19
+891,Nagpur,Umared,Cotton,Desi,FAQ,5800,5950,5900,29-Mar-19
+892,Nagpur,Umared,Cotton,Desi,FAQ,5800,6120,5970,27-Mar-19
+893,Nagpur,Umared,Cotton,Desi,FAQ,5800,6170,6150,26-Mar-19
+894,Nagpur,Umared,Cotton,Desi,FAQ,5700,6015,6000,25-Mar-19
+895,Nagpur,Umared,Cotton,Desi,FAQ,5600,5950,5900,23-Mar-19
+896,Nagpur,Umared,Cotton,Desi,FAQ,5700,5935,5900,18-Mar-19
+897,Nagpur,Umared,Cotton,Desi,FAQ,5500,5700,5650,16-Mar-19
+898,Nagpur,Umared,Cotton,Desi,FAQ,5200,5700,5650,15-Mar-19
+899,Nagpur,Umared,Cotton,Desi,FAQ,5400,5700,5650,13-Mar-19
+900,Nagpur,Umared,Cotton,Desi,FAQ,5200,5680,5620,12-Mar-19
+901,Nagpur,Umared,Cotton,Desi,FAQ,5000,5660,5600,11-Mar-19
+902,Nagpur,Umared,Cotton,Desi,FAQ,5200,5500,5450,09-Mar-19
+903,Nagpur,Umared,Cotton,Desi,FAQ,5000,5470,5415,08-Mar-19
+904,Nagpur,Umared,Cotton,Desi,FAQ,5200,5560,5500,06-Mar-19
+905,Nagpur,Umared,Cotton,Desi,FAQ,5000,5405,5350,02-Mar-19
+906,Nagpur,Umared,Cotton,Desi,FAQ,5000,5385,5350,01-Mar-19
+907,Nagpur,Umared,Cotton,Desi,FAQ,5000,5370,5325,27-Feb-19
+908,Nagpur,Umared,Cotton,Desi,FAQ,5000,5400,5350,26-Feb-19
+909,Nagpur,Umared,Cotton,Desi,FAQ,5000,5405,5355,23-Feb-19
+910,Nagpur,Umared,Cotton,Desi,FAQ,5100,5410,5375,22-Feb-19
+911,Nagpur,Umared,Cotton,Desi,FAQ,5000,5355,5300,20-Feb-19
+912,Nagpur,Umared,Cotton,Desi,FAQ,5000,5370,5340,18-Feb-19
+913,Nagpur,Umared,Cotton,Desi,FAQ,5000,5370,5325,16-Feb-19
+914,Nagpur,Umared,Cotton,Desi,FAQ,5000,5400,5350,15-Feb-19
+915,Nagpur,Umared,Cotton,Desi,FAQ,5000,5400,5350,13-Feb-19
+916,Nagpur,Umared,Cotton,Desi,FAQ,5000,5405,5350,12-Feb-19
+917,Nagpur,Umared,Cotton,Desi,FAQ,5000,5375,5320,11-Feb-19
+918,Nagpur,Umared,Cotton,Desi,FAQ,5000,5350,5300,09-Feb-19
+919,Nagpur,Umared,Cotton,Desi,FAQ,5000,5330,5300,08-Feb-19
+920,Nagpur,Umared,Cotton,Desi,FAQ,5100,5350,5300,06-Feb-19
+921,Nagpur,Umared,Cotton,Desi,FAQ,5000,5310,5285,05-Feb-19
+922,Nagpur,Umared,Cotton,Desi,FAQ,5000,5380,5350,04-Feb-19
+923,Nagpur,Umared,Cotton,Desi,FAQ,5200,5400,5350,02-Feb-19
+924,Nagpur,Umared,Cotton,Desi,FAQ,5200,5445,5400,01-Feb-19
+925,Nagpur,Umared,Cotton,Desi,FAQ,5200,5455,5400,30-Jan-19
+926,Nagpur,Umared,Cotton,Desi,FAQ,5000,5430,5400,29-Jan-19
+927,Nagpur,Umared,Cotton,Desi,FAQ,5100,5405,5350,28-Jan-19
+928,Nagpur,Umared,Cotton,Desi,FAQ,5000,5350,5300,25-Jan-19
+929,Nagpur,Umared,Cotton,Desi,FAQ,5200,5440,5400,23-Jan-19
+930,Nagpur,Umared,Cotton,Desi,FAQ,5200,5510,5460,22-Jan-19
+931,Nagpur,Umared,Cotton,Desi,FAQ,5200,5505,5450,21-Jan-19
+932,Nagpur,Umared,Cotton,Desi,FAQ,5300,5505,5450,19-Jan-19
+933,Nagpur,Umared,Cotton,Desi,FAQ,5200,5460,5400,18-Jan-19
+934,Nagpur,Umared,Cotton,Desi,FAQ,5100,5360,5300,16-Jan-19
+935,Nagpur,Umared,Cotton,Desi,FAQ,5200,5460,5400,15-Jan-19
+936,Nagpur,Umared,Cotton,Desi,FAQ,5200,5420,5400,14-Jan-19
+937,Nagpur,Umared,Cotton,Desi,FAQ,5200,5410,5370,12-Jan-19
+938,Nagpur,Umared,Cotton,Desi,FAQ,5200,5470,5420,11-Jan-19
+939,Nagpur,Umared,Cotton,Desi,FAQ,5200,5465,5400,09-Jan-19
+940,Nagpur,Umared,Cotton,Desi,FAQ,5350,5550,5500,08-Jan-19
+941,Nagpur,Umared,Cotton,Desi,FAQ,5350,5525,5500,07-Jan-19
+942,Nagpur,Umared,Cotton,Desi,FAQ,5300,5565,5500,05-Jan-19
+943,Nagpur,Umared,Cotton,Desi,FAQ,5200,5505,5450,04-Jan-19
+944,Nagpur,Umared,Cotton,Desi,FAQ,5100,5460,5400,02-Jan-19
+945,Nagpur,Umared,Cotton,Desi,FAQ,5100,5455,5400,01-Jan-19
