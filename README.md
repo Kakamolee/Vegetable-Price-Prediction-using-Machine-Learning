@@ -22,7 +22,8 @@ weekly and monthly data are used for forecasting because it has less noise.
 In this model two years of different commodity price data from 2018 and 2019 are taken for
 creating the model. Taking previous monthly and weekly price of vegetables from any market
 for simulating the model and later few monthly and weekly price as test data for the model.
-The data are collected from the web site [agmarknet.gov.in](https://agmarknet.gov.in/) 
+The data are collected from the web site [agmarknet.gov.in](https://agmarknet.gov.in/) also for 
+more accuracy in results we collected weather dataset from [wunderground.com](https://www.wunderground.com/)
 
 
 ### 1.2 Data Normalization
