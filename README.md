@@ -38,7 +38,7 @@ data normalization are available, they are Z-score normalization, Minimax sigmoi
 
 ![Login Page](Login_page.PNG)
 
-### Step 2 : Select the Commodity and City(Market) and click predict for the folloeing result
+### Step 2 : Select the Commodity and City(Market) and click predict for the following result
 
 ![Prediction](Predicted-Price.PNG)
 
